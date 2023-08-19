@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aref Begh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A passionate frontend developer from India</h2>
 <img  align="center" alt="Code" width="400" src="https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.jpg?b=1&s=612x612&w=0&k=20&c=ujRPoiaJlm5U3WDWcVVa1YVlFIt6Gcjr-RstzOEPbIU=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aref786&label=Profile%20views&color=0e75b6&style=flat" alt="aref786" /> </p>
